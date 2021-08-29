@@ -18,3 +18,26 @@ You Can Visit https://github.com/biswa-13/DataScience/blob/master/DS0_Misc.ipynb
 
 - Convert a Keras *.h5 model to *.onnx model
 
+## Google CoLab Utilities
+
+###### To view the CPU confguration of the current enviornment
+![image](https://user-images.githubusercontent.com/8691837/131219771-fdf76393-1732-4f30-ad19-9d0f6372f84c.png)
+
+###### To view the RAM Information
+![image](https://user-images.githubusercontent.com/8691837/131219837-6cb44a52-c207-45c6-8eda-c567ea49db12.png)
+
+###### Section Creatin in Colab
+![image](https://user-images.githubusercontent.com/8691837/131220140-2cf09e9e-0063-43c9-b33a-26290a5fc009.png)
+
+![image](https://user-images.githubusercontent.com/8691837/131220161-97ca1e14-536a-476c-acf2-364467ca812f.png)
+
+###### Creating the help description for a function
+![image](https://user-images.githubusercontent.com/8691837/131220952-8712a505-916b-44a8-9519-b22f36ceff8f.png)
+   <br/>img: """ text """ can be used for showing the help text
+![image](https://user-images.githubusercontent.com/8691837/131220922-06d4c483-53d0-4830-8804-a15a1cfc0561.png)
+  <br/>img: Viewing help text using func_name?
+![image](https://user-images.githubusercontent.com/8691837/131220936-aa181e43-ac34-44ba-afb3-5c4d1963ad98.png)
+  <br/>img: Viewing the help text using the help(func_name)
+
+
+
