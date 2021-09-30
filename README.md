@@ -18,6 +18,8 @@ You Can Visit https://github.com/biswa-13/DataScience/blob/master/DS0_Misc.ipynb
 
 - Convert a Keras *.h5 model to *.onnx model
 
+## Installing Tensorflow with CUDA, cuDNN and GPU support on Windows 10 (https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781)
+
 ## Google CoLab Utilities
 
 ###### To view the CPU confguration of the current enviornment
